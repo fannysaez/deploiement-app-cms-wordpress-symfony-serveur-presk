@@ -164,4 +164,3 @@ php bin/console doctrine:migrations:migrate --no-interaction
 
 ---
 
-# deploiement-app-cms-wordpress-symfony-serveur-presk
